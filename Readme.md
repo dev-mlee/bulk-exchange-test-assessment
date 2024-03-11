@@ -9,7 +9,7 @@ At first install docker on you system by following these steps:
 Navigate to the project folder and run the following commands in the terminal:
 
 ```bash
-cd accounts
+cd repo folder
 ```
 ```bash
 docker compose up
